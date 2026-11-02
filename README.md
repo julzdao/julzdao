@@ -1,3 +1,5 @@
+<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/33fd32b7-4f46-40d4-a660-f0b00e7d99ee" />
+
 # Hi, I'm Julian 👋
 
 ### Software Engineer | Java · TypeScript · IoT
